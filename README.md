@@ -1,17 +1,17 @@
-# Hi, I'm Alex. An aspiring developer.
+# Hi, I'm Alex. A Web Developer.
 
 I started my coding journey sometime mid-last year.
 Since December, I quit my full time job in order to pursue coding full time, through courses, or more recently a project <a href="https://www.github.com/walkingkindle/Ponderproject">Ponder</a> that turns your Kindle highlights or favorite quotes from books to blog posts.
 Essentially, I recognize a problem that I have and make a project that would automate/make that problem easier
 Interested? Create a free account here:
-ponder.ink
+www.ponder.ink
 
 
 <p align="left">
     <a href="https://github.com/walkingkindle?tab=repositories">
         <img alt="My repos" title="Check out my repos here" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
     <a href="https://github.com/walkingkindle?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/walkingkindle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="mailto:hadzicaleksa8@gmail.com">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-hadzicaleksa8@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
 </p>
