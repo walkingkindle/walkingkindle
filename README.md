@@ -3,8 +3,6 @@
 I started my coding journey sometime two years ago.
 Since December 2021, I quit my full time job in order to pursue coding full time, through courses, or more recently a project - <a href="https://www.github.com/walkingkindle/Ponderproject">Ponder</a> that turns your Kindle highlights or favorite quotes from books to blog posts.
 Essentially, I recognize a problem that I have and make a project that would automate/make that problem easier.
-Interested? Create a free account here:
-https://www.ponder.ink
 Currently employed by Datatex, the enterprise solution to many textile companies and the phenomenal ERP system.
 
 
