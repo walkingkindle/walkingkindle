@@ -11,8 +11,8 @@ Currently employed by Datatex, the enterprise solution to many textile companies
         <img alt="My repos" title="Check out my repos here" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
     <a href="https://github.com/walkingkindle?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/walkingkindle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="mailto:aki.hadza@gmail.com">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-hadzicaleksa0@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+    <a href="mailto:aleksa.hadzic@outlook.com">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-aleksa.hadzic@outlook.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
 </p>
 
 ---
