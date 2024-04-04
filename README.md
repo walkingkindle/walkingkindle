@@ -39,6 +39,5 @@ Currently employed by Datatex, the enterprise solution to many textile companies
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=walkingkindle&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=walkingkindle)](https://git.io/streak-stats)
 #
