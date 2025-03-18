@@ -3,7 +3,6 @@
 I started my coding journey sometime two years ago.
 Since December 2021, I quit my full time job in order to pursue coding full time, through courses, or more recently a project - <a href="https://recommendit.ink">Recommendit</a> , that suggest shows using ML models. Made in Angular and ASP. Net.
 Essentially, I recognize a problem that I have and make a project that would automate/make that problem easier.
-Currently employed by Datatex, the enterprise solution to many textile companies and the phenomenal ERP system.
 
 
 <p align="left">
