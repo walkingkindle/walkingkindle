@@ -1,6 +1,6 @@
 # Hi, I'm Alex. A Web Developer.
 
-Check out my starred project.
+Check out my starred projects. Note to self: If there isn't at least a 7 day commit-streak there, I apologize and I will immediately start on 6 more side-projects.
 
 
 <p align="left">
